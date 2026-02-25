@@ -24,4 +24,4 @@ You can delete your API key from the extension's options page at any time
 Uninstalling the extension removes all locally stored data
 
 Contact
-For questions about this policy, open an issue at
+For questions about this policy, open an issue at https://yourusername.github.io/gmail-label-organizer/
